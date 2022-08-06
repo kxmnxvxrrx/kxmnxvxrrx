@@ -1,6 +1,23 @@
-### Hi there!
+### Hi there 👋, Kim Navarro
+#### IT Instructor | Freelance Programmer
 
 I'm Kim from the Philippines, and I do develop applications. I really enjoy learning and using different programming languages and frameworks. I also enjoy prototyping.
-I am also a fan of crime and investigation type of shows!
+
+Skills: Python | Java | C# | PHP | JavaScript | Data Analysis
+
+- 🔭 I’m currently working on creating useful repos... 
+- 🌱 I’m currently learning Business Intelligence 
+- 👯 I’m looking to collaborate on a mobile app project 
+- 🤔 I’m looking for help with web design 
+- 💬 Ask me about programming 
+- 😄 Pronouns: He/Him/His 
+- ⚡ Fun fact: I'm a fan of crime, investigation, thriller shows 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kxmnxvxrrx)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kxmnxvxrrx)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/kxmnxvxrrx)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmnxvxrrx)](https://github.com/anuraghazra/github-readme-stats)
