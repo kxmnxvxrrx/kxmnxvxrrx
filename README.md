@@ -4,6 +4,7 @@
 I'm Kim from the Philippines, and I do develop applications. I really enjoy learning and using different programming languages and frameworks. I also enjoy prototyping.
 
 Programming Languages: Python | Java | C# | PHP | JavaScript | Visual Basic .NET | Ruby | C / C++ 
+
 Technical Skills     : Web Development | Desktop App Development | Software Engineering | Mobile App Development | Game Dev | Database Engineering
 
 - 🔭 I’m currently working on creating useful repos... 
